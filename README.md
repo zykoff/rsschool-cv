@@ -1,1 +1,1 @@
-# https://zykoff.github.io/rsschool-cv/cv
+https://zykoff.github.io/rsschool-cv/
