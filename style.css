@@ -1,0 +1,35 @@
+body {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    background: rgb(245 245 245);
+}
+
+main {
+    width: 450px;
+    margin: auto;
+}
+
+header {
+    margin: auto;
+    padding-left: 400px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(30 30 30);
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 800;
+    width: 50px;
+}
+
+.second-header {
+    padding-top: 100px;
+}
+
+.entry-footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
