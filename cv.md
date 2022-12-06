@@ -11,7 +11,7 @@ Student and web developer
 * VS Code
 * JS in process...
 ## Code Examples
-`  <script>alert( 'Hello world!' );</script>`
+`<script>alert('Привет, мир!');</script>`
 ## Experience
 * In process
 ## Education
