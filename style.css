@@ -1,56 +1,64 @@
-body {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-color: rgb(245 245 245);
-    width: 50%;
-    margin: auto;
-}
-
 * {
-    box-sizing: border-box;
-  }
-
-  .container {
-    max-width: 1440px;
-    margin: 0 auto;
-  }
-
-.header-info {
-    text-align: center;
-    font-size: 1.2em;
-    color: rgb(108, 108, 108);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: rgb(245 245 245);
 }
 
-.react-logo {
-    width: 30px;
-    border-radius: 30%;
+h1 {
+  font-size: 48px;
+  font-weight: 500;
+  display: inline;
+  color: rgb(108, 108, 108);
 }
 
-.about {
-    text-align: left;
+.header .text {
+  font-size: 21px;
 }
 
-.about-text {
-    color: rgb(108, 108, 108);
+.header .logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 30%;
 }
 
-.contacts-skills .discord, .telegram {
-    text-decoration: none;
+.header {
+  text-align: center;
+  padding-top: 30px;
 }
 
-.contacts-skills ul {
-    list-style: none;
-    list-style-type: none;
-    padding: 0px;
+.main {
+  margin: auto;
+  width: 50%;
 }
 
-.logo-rss img {
-    width: 40%;
+.main_title {
+  padding-top: 50px;
+  font-size: 25px;
 }
 
-.social-icons {
-    display: flex;
-    justify-content: space-evenly;
+.main_text {
+  font-size: 18px;
 }
-.footer {
-    display: flex;
+
+.contacts_link {
+  display: block;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: 500;
+  padding-top: 15px;
+}
+
+.logo_rss {
+  width: 100px;
+  height: 100px;
+}
+
+.social_links {
+  padding-top: 15px;
+}
+
+a {
+  padding-left: 15px;
 }
