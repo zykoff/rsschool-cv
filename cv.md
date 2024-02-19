@@ -15,3 +15,21 @@ My heart beats for web development, sports, and household chores. Outside of the
 - CSS
 - JavaScript
 - Git
+
+## 👩🏼‍💻 Frontend Experience
+
+**Frontend experience** @ [Brooklyn Public Library](in the process) _(Feb 2024 - Present)_ <br>
+
+  - **_Technologies used:_** HTML, CSS, JAVASCRIPT
+<br><br>
+
+## 💬 Languages
+
+🇺🇸 **English**: A1 <br>
+ru **Russian**: Native
+<br><br>
+
+## 👩🏼‍🎓 Education
+
+**Moscow International University** Management of large cities<br>
+[MMU](https://mi.university/) - Moscow, Russia _(Oct 2019 - Feb 2024)_ <br>
